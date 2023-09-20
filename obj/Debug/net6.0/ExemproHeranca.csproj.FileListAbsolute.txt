@@ -1,0 +1,15 @@
+C:\Users\Aluno\source\repos\ExemproHeranca\bin\Debug\net6.0\ExemproHeranca.exe
+C:\Users\Aluno\source\repos\ExemproHeranca\bin\Debug\net6.0\ExemproHeranca.deps.json
+C:\Users\Aluno\source\repos\ExemproHeranca\bin\Debug\net6.0\ExemproHeranca.runtimeconfig.json
+C:\Users\Aluno\source\repos\ExemproHeranca\bin\Debug\net6.0\ExemproHeranca.dll
+C:\Users\Aluno\source\repos\ExemproHeranca\bin\Debug\net6.0\ExemproHeranca.pdb
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.dll
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\refint\ExemproHeranca.dll
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.pdb
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ExemproHeranca.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\ExemproHeranca\obj\Debug\net6.0\ref\ExemproHeranca.dll
